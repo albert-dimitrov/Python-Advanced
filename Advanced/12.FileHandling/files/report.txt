@@ -1,0 +1,17 @@
+.css
+- - - style.css
+.html
+- - - home.html
+- - - index.html
+.js
+- - - js_is_nice.js
+.py
+- - - __init__.py
+- - - __init__.py
+- - - python_is_better.py
+.txt
+- - - file.txt
+- - - file_one.txt
+- - - log.txt
+- - - output.txt
+- - - report.txt
